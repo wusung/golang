@@ -10,4 +10,4 @@ https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/
 [Build Web Application with Golang
 ](https://astaxie.gitbooks.io/build-web-application-with-golang/content/zh/)
 
-[](https://github.com/avelino/awesome-go)
+[Awesome Go](https://github.com/avelino/awesome-go)
